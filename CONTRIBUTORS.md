@@ -1263,6 +1263,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I am a Solution Architect and work for a large SaaS organization
 - GitHub: [Karthick Thoppe](https://github.com/karthicktv)
 
+#### Name: [Kashis Jawed](https://github.com/Kashish410)
+- Place: Cuttack, Odisha, India
+- Bio: enthusiast slow learner
+- GitHub: [Kashish410](https://github.com/Kashish410)
+
 #### Name: [Katherine S](https://github.com/kms6bn)
 - Place: San Francisco
 - Bio: Data Scientist
